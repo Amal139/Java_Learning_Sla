@@ -1,0 +1,5 @@
+I am practicing Git commands in my existing project.
+This file will help me understand the commit and push process.
+Every commit should have a clear and meaningful message.
+Git keeps track of every change I make to my files.
+Pushing to GitHub will make my changes available online.
