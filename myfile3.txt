@@ -9,3 +9,9 @@ I can clone a repository to get a copy on my local machine.
 The git status command tells me what changes are staged or unstaged.
 Pulling updates from GitHub keeps my local code up to date.
 Pushing changes shares my latest work with the remote repository.
+
+
+GitHub Issues can be used to track bugs and feature requests.
+Tags in Git can mark specific versions of a project.
+Learning Git is an essential skill for any software developer.
+
