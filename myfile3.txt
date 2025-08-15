@@ -1,0 +1,5 @@
+Learning GitHub helps me collaborate with other developers.
+Version control makes it easy to track and revert changes.
+Branches allow me to work on new features without affecting the main code.
+Merge conflicts happen when two people change the same part of a file.
+Practicing daily will make me confident with Git and GitHub.
